@@ -1,7 +1,3 @@
----
-name: reasonable-diet-advisor
-description: Bilingual Chinese/English personalized diet and meal recommendation workflow. Use when Codex needs to help a user decide what to eat now or plan meals while considering sex, age/life stage, skipped meals, current time, budget, location/environment, Chinese and Western meal options, allergies, dislikes, diseases or risk factors such as diabetes, hypertension, high cholesterol, hyperuricemia/gout, kidney disease, pregnancy, recent sleep deprivation, heavy physical labor, or prolonged cognitive work. Supports multi-turn clarification before recommending safe, practical alternatives.
----
 
 # Reasonable Diet Advisor / 合理饮食推荐
 
