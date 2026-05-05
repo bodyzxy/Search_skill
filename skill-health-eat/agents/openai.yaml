@@ -1,0 +1,4 @@
+interface:
+  display_name: "Reasonable Diet Advisor"
+  short_description: "Bilingual personalized meal guidance"
+  default_prompt: "Use $reasonable-diet-advisor to help me choose a suitable meal for today."
