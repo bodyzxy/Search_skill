@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skill Finder 中文"
+  short_description: "按一句话需求严谨寻找匹配的 skill"
+  default_prompt: "Use $skill-finder-zh to find the best skills for my task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skill Finder"
+  short_description: "Find precise skills from one user request"
+  default_prompt: "Use $skill-finder-en to find the best skills for my task."
